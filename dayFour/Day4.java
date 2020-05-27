@@ -18,11 +18,11 @@ public class Day4
         {
             this.age = initialAge;
         }
-  		// Add some more code to run some checks on initialAge
+
 	}
 
 	public void amIOld() {
-  		// Write code determining if this person's age is old and print the correct statement:
+
         if(age<13)
         {
             System.out.println("You are young.");
@@ -38,11 +38,9 @@ public class Day4
             System.out.println("You are old.");
         }
 
-        //System.out.println(/*Insert correct print statement here*/);
 	}
 
 	public void yearPasses() {
-  		// Increment this person's age.
           age++;
 	}
 
