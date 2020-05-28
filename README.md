@@ -1,6 +1,6 @@
 # 30DaysOfCode_HackerRank
 
-The repository contains my progress for the #30DaysOfCode challenge on HackerRank.
+The repository contains my progress for the #30DaysOfCode challenge availbale on HackerRank.
 
 Programming Language - Java
 
