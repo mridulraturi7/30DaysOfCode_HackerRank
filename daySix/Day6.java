@@ -5,19 +5,19 @@ import java.util.Scanner;
 public class Day6 {
 
     public static void main(String[] args) {
-        
-    Scanner scan = new Scanner(System.in);
-    int n = scan.nextInt();
 
-    while(n>0)
-    {
-        String string = scan.next();
-        new Day6().printSequence(string);
-        System.out.println();
-        n--;
-    }
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
 
-    scan.close();
+        while(n>0)
+        {
+            String string = scan.next();
+            new Day6().printSequence(string);
+            System.out.println();
+            n--;
+        }
+
+        scan.close();
 
     }
 
