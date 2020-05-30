@@ -1,8 +1,7 @@
 package dayEight;
 
 import java.util.Scanner;
-import java.util.Map;
-import java.util.HashMap;
+import java.util.*;
 
 public class Day8 {
 
@@ -12,7 +11,7 @@ public class Day8 {
 
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        
+
         for(int i = 0; i < n; i++){
             String name = in.next();
             int phone = in.nextInt();
