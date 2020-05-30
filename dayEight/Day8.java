@@ -30,6 +30,9 @@ public class Day8 {
                 System.out.println("Not found");
             }
         }
+
+        in.close();
+
     }
     
 }
