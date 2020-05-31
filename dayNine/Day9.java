@@ -19,7 +19,7 @@ public class Day9 {
     public static void main(String[] args) throws IOException {
 
         Scanner scanner = new Scanner(System.in);
-     
+    
         int n = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
