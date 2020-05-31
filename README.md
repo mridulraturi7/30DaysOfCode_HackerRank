@@ -22,4 +22,4 @@ Day 7 : Arrays.
 
 Day 8 : Dictionaries and Maps.
 
-Day 9 : Recursion 3
+Day 9 : Recursion 3.
