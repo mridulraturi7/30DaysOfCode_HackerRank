@@ -1,13 +1,10 @@
 package dayTen;
 
-import java.util.Scanner;
-import java.util.List;
-import java.util.ArrayList;
+import java.util.*;
 
 public class Day10
 {
     private static final Scanner scanner = new Scanner(System.in);
-
     public static void main(String[] args) {
         int n = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
