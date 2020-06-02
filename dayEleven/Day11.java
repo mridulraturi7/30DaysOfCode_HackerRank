@@ -1,6 +1,7 @@
 package dayEleven;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Day11
 {
