@@ -26,4 +26,4 @@ Day 9 : Recursion 3.
 
 Day 10 : Binary Numbers.
 
-Day11 : 2D Array.
+Day 11 : 2D Arrays.
