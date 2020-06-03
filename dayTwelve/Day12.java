@@ -1,5 +1,28 @@
 package dayTwelve;
 
+import java.util.Scanner;
+
+class Person {
+	protected String firstName;
+	protected String lastName;
+	protected int idNumber;
+	
+	// Constructor
+	Person(String firstName, String lastName, int identification){
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.idNumber = identification;
+	}
+	
+	// Print person data
+	public void printPerson(){
+		 System.out.println(
+				"Name: " + lastName + ", " + firstName 
+			+ 	"\nID: " + idNumber); 
+	}
+	 
+}
+
 public class Day12
 {
     public static void main(String[] args) {
