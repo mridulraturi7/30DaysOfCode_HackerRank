@@ -1,6 +1,9 @@
 package dayThirteen;
 
-abstract class Book {
+import java.util.Scanner;
+
+abstract class Book
+{
     String title;
     String author;
     
@@ -29,8 +32,6 @@ class MyBook extends Book
         System.out.println("Price: " + price);
     }
 }
-
-import java.util.Scanner;
 
 public class Day13 {
 
