@@ -26,9 +26,7 @@ class Difference {
       maximumDifference = max - min;
   }
 
-  // Add your code here
-
-} // End 
+}
 
 public class Day14 {
 
