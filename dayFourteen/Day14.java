@@ -2,6 +2,34 @@ package dayFourteen;
 
 import java.util.Scanner;
 
+class Difference {
+    private int[] elements;
+    public int maximumDifference;
+
+  Difference(int[] elements)
+  {
+      this.elements = elements;
+  }
+
+  public void computeDifference()
+  {
+      int max = 1;
+      int min = 100;
+      for(int i = 0; i < elements.length; i++)
+      {
+          if(elements[i] < min)
+              min = elements[i];
+
+          if(elements[i] > max)
+              max = elements[i];
+      }
+      maximumDifference = max - min;
+  }
+
+  // Add your code here
+
+} // End 
+
 public class Day14 {
 
     public static void main(String[] args) {
