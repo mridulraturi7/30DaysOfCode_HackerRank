@@ -1,5 +1,14 @@
 package dayFifteen;
 
+class Node {
+	int data;
+	Node next;
+	Node(int d) {
+        data = d;
+        next = null;
+    }
+}
+
 public class Day15 {
 
     public static void main(String args[]) {
