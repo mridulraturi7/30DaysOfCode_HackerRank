@@ -35,3 +35,5 @@ Day 13 : Abstract CLasses.
 Day 14 : Scope.
 
 Day 15 : Linked List.
+
+Day 16 : Exceptions - String to Integer.
