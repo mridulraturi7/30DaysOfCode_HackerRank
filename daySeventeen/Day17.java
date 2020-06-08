@@ -37,6 +37,7 @@ public class Day17 {
                 System.out.println(e.getMessage());
             }
         }
+        in.close();
     }
     
 }
