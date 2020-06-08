@@ -2,6 +2,22 @@ package daySeventeen;
 
 import java.util.Scanner;
 
+//Write your code here
+class Calculator
+{
+    int power(int a, int b) throws Exception
+    {
+        if(a < 0 || b < 0)
+        {
+            throw new Exception("n and p should be non-negative");
+        }
+        double a1 = (double)a;
+        double b1 = (double)b;
+        int res = (int)Math.pow(a1, b1);
+        return res;
+    }
+}
+
 public class Day17 {
 
     public static void main(String[] args) {
