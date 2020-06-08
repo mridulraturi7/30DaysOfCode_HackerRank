@@ -2,7 +2,6 @@ package daySeventeen;
 
 import java.util.Scanner;
 
-//Write your code here
 class Calculator
 {
     int power(int a, int b) throws Exception
