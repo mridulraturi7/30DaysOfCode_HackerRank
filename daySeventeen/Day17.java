@@ -1,5 +1,7 @@
 package daySeventeen;
 
+import java.util.Scanner;
+
 public class Day17 {
 
     public static void main(String[] args) {
