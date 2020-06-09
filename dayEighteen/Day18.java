@@ -7,7 +7,6 @@ import java.util.LinkedList;
 
 public class Day18 {
 
-        // Write your code here.
         Stack<Character> stack = new Stack<Character>();
         Queue<Character> queue = new LinkedList<>();
     
@@ -35,19 +34,15 @@ public class Day18 {
         String input = scan.nextLine();
         scan.close();
 
-        // Convert input String to an array of characters:
         char[] s = input.toCharArray();
 
-        // Create a Solution object:
         Day18 d = new Day18();
 
-        // Enqueue/Push all chars to their respective data structures:
         for (char c : s) {
             d.pushCharacter(c);
             d.enqueueCharacter(c);
         }
 
-        // Pop/Dequeue the chars at the head of both data structures and compare them:
         boolean isPalindrome = true;
         for (int i = 0; i < s.length/2; i++) {
             if (d.popCharacter() != d.dequeueCharacter()) {
@@ -56,7 +51,6 @@ public class Day18 {
             }
         }
 
-        //Finally, print whether string s is palindrome or not.
         System.out.println( "The word, " + input + ", is " 
                            + ( (!isPalindrome) ? "not a palindrome." : "a palindrome." ) );
     }
