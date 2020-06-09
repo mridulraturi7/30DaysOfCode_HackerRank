@@ -4,6 +4,29 @@ import java.util.Scanner;
 
 public class Day18 {
 
+        // Write your code here.
+        Stack<Character> stack = new Stack<Character>();
+        Queue<Character> queue = new LinkedList<>();
+    
+        void pushCharacter(char ch)
+        {
+            stack.push(ch);
+        }
+    
+        char popCharacter()
+        {
+            return stack.pop();
+        }
+    
+        void enqueueCharacter(char ch)
+        {
+            queue.add(ch);
+        }
+    
+        char dequeueCharacter()
+        {
+            return queue.remove();
+        }
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String input = scan.nextLine();
