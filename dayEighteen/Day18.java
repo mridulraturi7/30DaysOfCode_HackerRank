@@ -13,18 +13,18 @@ public class Day18 {
         char[] s = input.toCharArray();
 
         // Create a Solution object:
-        Solution p = new Solution();
+        Day18 d = new Day18();
 
         // Enqueue/Push all chars to their respective data structures:
         for (char c : s) {
-            p.pushCharacter(c);
-            p.enqueueCharacter(c);
+            d.pushCharacter(c);
+            d.enqueueCharacter(c);
         }
 
         // Pop/Dequeue the chars at the head of both data structures and compare them:
         boolean isPalindrome = true;
         for (int i = 0; i < s.length/2; i++) {
-            if (p.popCharacter() != p.dequeueCharacter()) {
+            if (d.popCharacter() != d.dequeueCharacter()) {
                 isPalindrome = false;                
                 break;
             }
