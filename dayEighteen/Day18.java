@@ -7,28 +7,28 @@ import java.util.LinkedList;
 
 public class Day18 {
 
-        Stack<Character> stack = new Stack<Character>();
-        Queue<Character> queue = new LinkedList<>();
+    Stack<Character> stack = new Stack<Character>();
+    Queue<Character> queue = new LinkedList<>();
     
-        void pushCharacter(char ch)
-        {
-            stack.push(ch);
-        }
+    void pushCharacter(char ch)
+    {
+        stack.push(ch);
+    }
     
-        char popCharacter()
-        {
-            return stack.pop();
-        }
+    char popCharacter()
+    {
+        return stack.pop();
+    }
     
-        void enqueueCharacter(char ch)
-        {
-            queue.add(ch);
-        }
+    void enqueueCharacter(char ch)
+    {
+        queue.add(ch);
+    }
     
-        char dequeueCharacter()
-        {
-            return queue.remove();
-        }
+    char dequeueCharacter()
+    {
+        return queue.remove();
+    }
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String input = scan.nextLine();
