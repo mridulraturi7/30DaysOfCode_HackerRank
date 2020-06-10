@@ -2,6 +2,10 @@ package dayNineteen;
 
 import java.util.Scanner;
 
+interface AdvancedArithmetic{
+    int divisorSum(int n);
+ }
+
 public class Day19 {
 
     public static void main(String[] args) {
