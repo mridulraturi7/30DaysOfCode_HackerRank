@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 interface AdvancedArithmetic{
     int divisorSum(int n);
- }
+}
 
 class Calculator implements AdvancedArithmetic {
     public int divisorSum(int n) {
@@ -23,7 +23,6 @@ class Calculator implements AdvancedArithmetic {
 }
 
 public class Day19 {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
@@ -34,5 +33,4 @@ public class Day19 {
         System.out.println("I implemented: " + myCalculator.getClass().getInterfaces()[0].getName() );
         System.out.println(sum);
     }
-    
 }
