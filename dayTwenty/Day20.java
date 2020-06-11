@@ -11,13 +11,11 @@ public class Day20 {
         for(int a_i=0; a_i < n; a_i++){
             a[a_i] = in.nextInt();
         }
-        // Write Your Code Here
 
         int arraySwaps = 0;
 
         for(int i = 0; i < n; i++)
         {
-            //arraySwaps = 0;
             for( int j = 0; j < n-1; j++)
             {
                 if(a[j] > a[j+1])
