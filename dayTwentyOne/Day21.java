@@ -2,6 +2,24 @@ package dayTwentyOne;
 
 import java.util.Scanner;
 
+class Printer <T> {
+
+    /**
+    *    Method Name: printArray
+    *    Print each element of the generic array on a new line. Do not return anything.
+    *    @param A generic array
+    **/
+    void printArray(T[] array)
+    {
+        for( int i = 0; i < array.length; i++ )
+        {
+            System.out.println(array[i]);
+        }
+    }
+    // Write your code here
+
+}
+
 public class Day21
 {
 
