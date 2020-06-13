@@ -11,19 +11,23 @@ class Node{
 
 public class Day22 {
 
-    class Solution{
+    public static int getHeight(Node root){
+    //Write your code here
 
-        public static int getHeight(Node root){
-          //Write your code here
+    if (root == null) {
+        return -1;
+    }
+
+    return 1+(Math.max(getHeight(root.left), getHeight(root.right)));
             
-        }
+    }
     
-        public static Node insert(Node root,int data){
-            if(root==null){
-                return new Node(data);
-            }
-            else{
-                Node cur;
+    public static Node insert(Node root,int data){
+        if(root==null){
+            return new Node(data);
+        }
+        else{
+            Node cur;
                 if(data<=root.data){
                     cur=insert(root.left,data);
                     root.left=cur;
@@ -46,6 +50,4 @@ public class Day22 {
                 int height=getHeight(root);
                 System.out.println(height);
             }	
-    }
-    
 }
