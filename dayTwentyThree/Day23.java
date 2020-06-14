@@ -73,7 +73,7 @@ public class Day23 {
             int data=sc.nextInt();
             root=insert(root,data);
         }
+        sc.close();
         levelOrder(root);
-    }	
-    
+    }	  
 }
