@@ -16,7 +16,6 @@ class Node{
 public class Day23 {
 
     static void levelOrder(Node root){
-        //Write your code here'
         Queue<Node> q = new LinkedList<>();
         if(root != null)
         {
