@@ -2,6 +2,15 @@ package dayTwentyThree;
 
 import java.util.Scanner;
 
+class Node{
+    Node left,right;
+    int data;
+    Node(int data){
+        this.data=data;
+        left=right=null;
+    }
+}
+
 public class Day23 {
 
     public static void main(String args[]){
