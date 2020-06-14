@@ -4,10 +4,12 @@ import java.util.Scanner;
 import java.util.Queue;
 import java.util.LinkedList;
 
-class Node{
+class Node
+{
     Node left,right;
     int data;
-    Node(int data){
+    Node(int data)
+    {
         this.data=data;
         left=right=null;
     }
@@ -15,7 +17,8 @@ class Node{
 
 public class Day23 {
 
-    static void levelOrder(Node root){
+    static void levelOrder(Node root)
+    {
         Queue<Node> q = new LinkedList<>();
         if(root != null)
         {
@@ -39,24 +42,30 @@ public class Day23 {
         }    
     }  
 
-    public static Node insert(Node root,int data){
-        if(root==null){
+    public static Node insert(Node root,int data)
+    {
+        if(root==null)
+        {
             return new Node(data);
         }
-        else{
+        else
+        {
             Node cur;
-            if(data<=root.data){
+            if(data<=root.data)
+            {
                 cur=insert(root.left,data);
                 root.left=cur;
             }
-            else{
+            else
+            {
                 cur=insert(root.right,data);
                 root.right=cur;
             }
             return root;
         }
     }
-    public static void main(String args[]){
+    public static void main(String args[])
+    {
         Scanner sc=new Scanner(System.in);
         int T=sc.nextInt();
         Node root=null;
