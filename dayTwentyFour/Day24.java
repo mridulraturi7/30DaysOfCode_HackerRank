@@ -57,6 +57,16 @@ public class Day24 {
         return head;
     }
 
+    public static void display(Node head)
+        {
+              Node start=head;
+              while(start!=null)
+              {
+                  System.out.print(start.data+" ");
+                  start=start.next;
+              }
+        }
+
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
