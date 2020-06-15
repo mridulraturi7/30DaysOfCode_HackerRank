@@ -51,3 +51,5 @@ Day 21 : Generics.
 Day 22 : Binary Search Trees.
 
 Day 23 : BST(Binary Search Tree) Level Order Traversal.
+
+Day 24 : More Linked Lists.
