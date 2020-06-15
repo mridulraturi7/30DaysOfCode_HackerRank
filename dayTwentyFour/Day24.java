@@ -76,6 +76,7 @@ public class Day24 {
             int ele=sc.nextInt();
             head=insert(head,ele);
               }
+            sc.close();
               head=removeDuplicates(head);
               display(head);
     }
