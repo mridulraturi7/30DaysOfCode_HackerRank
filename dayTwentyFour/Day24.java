@@ -13,6 +13,32 @@ class Node{
 
 public class Day24 {
 
+    public static Node removeDuplicates(Node head) {
+        //Write your code here
+        if(head == null || head.next == null)
+        {
+            return head;
+        }
+  
+        Node n = head;
+  
+        while(n.next != null)
+        {
+            if(n.data == n.next.data)
+            {
+                n.next = n.next.next;
+            }
+  
+            else
+            {
+                n = n.next;
+            }
+        }
+  
+        return head;
+  
+      }
+
     public static  Node insert(Node head,int data)
     {
         Node p=new Node(data);			
