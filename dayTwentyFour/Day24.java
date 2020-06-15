@@ -14,7 +14,6 @@ class Node{
 public class Day24 {
 
     public static Node removeDuplicates(Node head) {
-        //Write your code here
         if(head == null || head.next == null)
         {
             return head;
