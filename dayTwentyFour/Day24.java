@@ -2,10 +2,12 @@ package dayTwentyFour;
 
 import java.util.Scanner;
 
-class Node{
+class Node
+{
 	int data;
 	Node next;
-	Node(int d){
+    Node(int d)
+    {
         data=d;
         next=null;
     }	
@@ -13,7 +15,8 @@ class Node{
 
 public class Day24 {
 
-    public static Node removeDuplicates(Node head) {
+    public static Node removeDuplicates(Node head) 
+    {
         if(head == null || head.next == null)
         {
             return head;
@@ -36,7 +39,7 @@ public class Day24 {
   
         return head;
   
-      }
+    }
 
     public static  Node insert(Node head,int data)
     {
@@ -57,27 +60,27 @@ public class Day24 {
     }
 
     public static void display(Node head)
+    {
+        Node start=head;
+        while(start!=null)
         {
-              Node start=head;
-              while(start!=null)
-              {
-                  System.out.print(start.data+" ");
-                  start=start.next;
-              }
+            System.out.print(start.data+" ");
+            start=start.next;
         }
+    }
 
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
         Node head=null;
         int T=sc.nextInt();
-        while(T-->0){
+        while(T-->0)
+        {
             int ele=sc.nextInt();
             head=insert(head,ele);
-              }
-            sc.close();
-              head=removeDuplicates(head);
-              display(head);
+        }
+        sc.close();
+        head=removeDuplicates(head);
+        display(head);
     }
-    
 }
