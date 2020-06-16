@@ -1,5 +1,7 @@
 package dayTwentyFive;
 
+import java.util.Scanner;
+
 public class Day25
 {
 
