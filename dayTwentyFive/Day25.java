@@ -29,6 +29,7 @@ public class Day25
                 System.out.println("Not prime");
             }
         }
+        scan.close();
     }
 
     static boolean isPrime(int n) 
