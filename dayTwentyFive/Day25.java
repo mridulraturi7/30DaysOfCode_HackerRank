@@ -4,13 +4,9 @@ import java.util.Scanner;
 
 public class Day25
 {
-    public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-
+    public static void main(String[] args) {        
         Scanner scan = new Scanner(System.in);
-
         int t = scan.nextInt();
-
         while(t>0)
         {
             boolean check;
@@ -33,14 +29,12 @@ public class Day25
 
     static boolean isPrime(int n) 
     { 
-        // Corner cases 
         if (n <= 1) 
             return false; 
+            
         if (n <= 3) 
-            return true; 
-  
-        // This is checked so that we can skip 
-        // middle five numbers in below loop 
+            return true;
+
         if (n % 2 == 0 || n % 3 == 0) 
             return false; 
   
