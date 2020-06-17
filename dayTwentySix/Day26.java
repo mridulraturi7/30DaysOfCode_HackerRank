@@ -14,4 +14,41 @@ public class Day26
         int monthD = scan.nextInt();
         int yearD = scan.nextInt();
 
+        if(yearR < yearD)
+        {
+            System.out.println("0");
+        }
+
+        else if(yearR == yearD)
+        {
+            if(monthR < monthD)
+            {
+                System.out.println("0");
+            }
+
+            else if(monthR == monthD)
+            {
+                if(dayR <= dayD)
+                {
+                    System.out.println("0");
+                }
+                else
+                {
+                    System.out.println(15 * (dayR - dayD));
+                }
+            }
+
+            else
+            {
+                System.out.println(500 * (monthR - monthD));
+            }
+        }
+
+        else
+        {
+            System.out.println("10000");
+        }
+
+    }
+
 }
