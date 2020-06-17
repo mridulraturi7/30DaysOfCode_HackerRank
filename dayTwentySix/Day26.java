@@ -16,6 +16,8 @@ public class Day26
         int monthD = scan.nextInt();
         int yearD = scan.nextInt();
 
+        scan.close();
+
         if(yearR < yearD)
         {
             System.out.println("0");
