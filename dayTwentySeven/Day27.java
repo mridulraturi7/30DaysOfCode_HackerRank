@@ -2,6 +2,16 @@ package dayTwentySeven;
 
 public class Day27 {
 
+    public static void TestWithEmptyArray() {
+        try {
+            int[] seq = TestDataEmptyArray.get_array();
+            int result = minimum_index(seq);
+        } catch (IllegalArgumentException e) {
+            return;
+        }
+        throw new AssertionError("Exception wasn't thrown as expected");
+    }
+
     public static void TestWithUniqueValues() {
         int[] seq = TestDataUniqueValues.get_array();
         if (seq.length < 2) {
