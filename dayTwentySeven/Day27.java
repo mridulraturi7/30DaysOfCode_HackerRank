@@ -2,6 +2,20 @@ package dayTwentySeven;
 
 public class Day27 {
 
+    static class TestDataUniqueValues {
+        public static int[] get_array() {
+            // complete this function
+            int[] array = {2, 7, 5, 4, 1};
+            return array;
+        }
+
+        public static int get_expected_result() {
+            // complete this function
+            int res = 4;
+            return res;
+        }
+    }
+
     static class TestDataExactlyTwoDifferentMinimums {
         public static int[] get_array() {
             // complete this function
