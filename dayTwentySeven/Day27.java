@@ -1,5 +1,8 @@
 package dayTwentySeven;
 
+import java.util.LinkedHashSet;
+import java.util.Arrays;
+
 public class Day27 {
 
     public static int minimum_index(int[] seq) {
