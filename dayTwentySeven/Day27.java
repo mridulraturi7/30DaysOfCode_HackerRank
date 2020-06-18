@@ -2,6 +2,14 @@ package dayTwentySeven;
 
 public class Day27 {
 
+    static class TestDataEmptyArray {
+        public static int[] get_array() {
+            // complete this function
+            int[] array = {};
+            return array;
+        }
+    }
+
     static class TestDataUniqueValues {
         public static int[] get_array() {
             // complete this function
