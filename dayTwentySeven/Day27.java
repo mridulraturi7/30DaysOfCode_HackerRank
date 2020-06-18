@@ -2,6 +2,20 @@ package dayTwentySeven;
 
 public class Day27 {
 
+    static class TestDataExactlyTwoDifferentMinimums {
+        public static int[] get_array() {
+            // complete this function
+            int[] array = {5, 4, 2, 3, 2};
+            return array;
+        }
+
+        public static int get_expected_result() {
+            // complete this function
+            int res = 2;
+            return res;
+        }
+    }
+
     public static void TestWithEmptyArray() {
         try {
             int[] seq = TestDataEmptyArray.get_array();
