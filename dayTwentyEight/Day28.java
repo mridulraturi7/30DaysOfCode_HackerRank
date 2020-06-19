@@ -3,38 +3,39 @@ package dayTwentyEight;
 public class Day28
 {
 
-    int N = scanner.nextInt();
-    scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+    public static void main(String[] args) {
+        int N = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
-    String string = "[a-z]+@gmail\\.com$";
+        String string = "[a-z]+@gmail\\.com$";
 
-    Pattern p = Pattern.compile(string);
+        Pattern p = Pattern.compile(string);
 
-    List<String> list = new ArrayList<>();
+        List<String> list = new ArrayList<>();
 
-    for (int NItr = 0; NItr < N; NItr++) {
-        String[] firstNameEmailID = scanner.nextLine().split(" ");
+        for (int NItr = 0; NItr < N; NItr++) {
+            String[] firstNameEmailID = scanner.nextLine().split(" ");
 
-        String firstName = firstNameEmailID[0];
+            String firstName = firstNameEmailID[0];
 
-        String emailID = firstNameEmailID[1];
+            String emailID = firstNameEmailID[1];
 
-        Matcher m = p.matcher(emailID);
+            Matcher m = p.matcher(emailID);
 
-        if(m.find())
-        {
-            list.add(firstName);
+            if(m.find())
+            {
+                list.add(firstName);
+            }
         }
+
+        Collections.sort(list);
+
+        for(String firstName : list)
+        {
+            System.out.println(firstName);
+        }
+
+        scanner.close();
     }
-
-    Collections.sort(list);
-
-    for(String firstName : list)
-    {
-        System.out.println(firstName);
-    }
-
-    scanner.close();
-}
 
 }
