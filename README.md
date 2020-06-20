@@ -61,3 +61,5 @@ Day 26 : Nested Logic.
 Day 27 : Testing.
 
 Day 28 : RegEx, Patterns, and Intro to Databases.
+
+Day 29 : Bitwise And.
