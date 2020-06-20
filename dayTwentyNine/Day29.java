@@ -2,7 +2,8 @@ package dayTwentyNine;
 
 public class Day29 {
 
-    int t = scanner.nextInt();
+    public static void main(String[] args) {
+        int t = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
         for (int tItr = 0; tItr < t; tItr++) {
@@ -29,5 +30,6 @@ public class Day29 {
             System.out.println(max);
 
         }
+    }
     
 }
