@@ -2,14 +2,16 @@ package dayTwentyNine;
 
 import java.util.Scanner;
 
-public class Day29 {
-
+public class Day29 
+{
     private static final Scanner scanner = new Scanner(System.in);
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int t = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
-        for (int tItr = 0; tItr < t; tItr++) {
+        for (int tItr = 0; tItr < t; tItr++) 
+        {
             String[] nk = scanner.nextLine().split(" ");
 
             int n = Integer.parseInt(nk[0]);
@@ -34,6 +36,5 @@ public class Day29 {
 
         }
         scanner.close();
-    }
-    
+    }   
 }
