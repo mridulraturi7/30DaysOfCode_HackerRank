@@ -33,6 +33,7 @@ public class Day29 {
             System.out.println(max);
 
         }
+        scanner.close();
     }
     
 }
