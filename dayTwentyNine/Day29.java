@@ -1,5 +1,7 @@
 package dayTwentyNine;
 
+import java.util.Scanner;
+
 public class Day29 {
 
     private static final Scanner scanner = new Scanner(System.in);
