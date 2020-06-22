@@ -64,4 +64,4 @@ Day 28 : RegEx, Patterns, and Intro to Databases.
 
 Day 29 : Bitwise AND.
 
-Successfully completed #30DaysOfCode Challenge.
+Successfully completed #30DaysOfCode Challenge (22 May 2020 to 20 June 2020).
