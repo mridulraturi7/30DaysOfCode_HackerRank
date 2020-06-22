@@ -2,8 +2,10 @@ package daySixteen;
 
 import java.util.Scanner;
 
-public class Day16 {
-    public static void main(String[] args) {
+public class Day16 
+{
+    public static void main(String[] args) 
+    {
         
         Scanner in = new Scanner(System.in);
         String S = in.next();
