@@ -64,4 +64,4 @@ Day 28 : RegEx, Patterns, and Intro to Databases.
 
 Day 29 : Bitwise AND.
 
-Successfully completed #30Daysofcode Challenge.
+Successfully completed #30DaysOfCode Challenge.
