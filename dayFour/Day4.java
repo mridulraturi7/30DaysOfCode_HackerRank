@@ -6,7 +6,8 @@ public class Day4
 {
     private int age;	
   
-	public Day4(int initialAge) {
+    public Day4(int initialAge) 
+    {
 
         if(initialAge < 0)
         {
@@ -21,7 +22,8 @@ public class Day4
 
 	}
 
-	public void amIOld() {
+    public void amIOld() 
+    {
 
         if(age<13)
         {
@@ -40,11 +42,13 @@ public class Day4
 
 	}
 
-	public void yearPasses() {
+    public void yearPasses() 
+    {
           age++;
 	}
 
-	public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
 		for (int i = 0; i < T; i++) {
