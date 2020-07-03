@@ -44,7 +44,7 @@ Day 18 : [Queues and Stacks](dayEighteen/Day18.java).
 
 Day 19 : [Interfaces](dayNineteen/Day19.java).
 
-Day 20 : Sorting.
+Day 20 : [Sorting](dayTwenty/Day20.java).
 
 Day 21 : Generics.
 
