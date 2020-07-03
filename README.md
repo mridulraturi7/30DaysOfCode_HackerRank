@@ -58,7 +58,7 @@ Day 25 : [Running Time and Complexity](dayTwentyFive/Day25.java).
 
 Day 26 : [Nested Logic](dayTwentySix/Day26.java).
 
-Day 27 : Testing.
+Day 27 : [Testing](dayTwentySeven/Day27.java).
 
 Day 28 : RegEx, Patterns, and Intro to Databases.
 
