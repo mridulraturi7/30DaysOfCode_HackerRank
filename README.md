@@ -62,6 +62,6 @@ Day 27 : [Testing](dayTwentySeven/Day27.java).
 
 Day 28 : [RegEx, Patterns, and Intro to Databases](dayTwentyEight/Day28.java).
 
-Day 29 : Bitwise AND.
+Day 29 : [Bitwise AND](dayTwentyNine/Day29.java).
 
 Successfully completed #30DaysOfCode Challenge (22 May 2020 to 20 June 2020).
