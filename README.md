@@ -26,9 +26,9 @@ Day 9 : [Recursion 3](dayNine/Day9.java).
 
 Day 10 : [Binary Numbers](dayTen/Day10.java).
 
-Day 11 : 2D Arrays.
+Day 11 : [2D Arrays](dayEleven/Day11.java).
 
-Day 12 : Inheritance.
+Day 12 : [Inheritance](dayTwelve/Day12.java).
 
 Day 13 : Abstract CLasses.
 
