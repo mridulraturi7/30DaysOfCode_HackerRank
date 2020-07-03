@@ -38,7 +38,7 @@ Day 15 : [Linked List](dayFifteen/Day15.java).
 
 Day 16 : [Exceptions - String to Integer](daySixteen/Day16.java).
 
-Day 17 : More Exceptions.
+Day 17 : [More Exceptions](daySeventeen/Day17.java).
 
 Day 18 : Queues and Stacks.
 
