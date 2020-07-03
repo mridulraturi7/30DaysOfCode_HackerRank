@@ -48,7 +48,7 @@ Day 20 : [Sorting](dayTwenty/Day20.java).
 
 Day 21 : [Generics](dayTwentyOne/Day21.java).
 
-Day 22 : Binary Search Trees.
+Day 22 : [Binary Search Trees](dayTwentyTwo/Day22.java).
 
 Day 23 : BST(Binary Search Tree) Level Order Traversal.
 
