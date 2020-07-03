@@ -34,9 +34,9 @@ Day 13 : [Abstract CLasses](dayThirteen/Day13.java).
 
 Day 14 : [Scope](dayFourteen/Day14.java).
 
-Day 15 : Linked List.
+Day 15 : [Linked List](dayFifteen/Day15.java).
 
-Day 16 : Exceptions - String to Integer.
+Day 16 : [Exceptions - String to Integer](daySixten/Day16.java).
 
 Day 17 : More Exceptions.
 
