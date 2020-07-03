@@ -10,9 +10,9 @@ Day 1 : [Data Types](dayOne/Day1.java).
 
 Day 2 : [Operators](dayTwo/Day2.java).
 
-Day 3 : Intro to Conditional Statements.
+Day 3 : [Intro to Conditional Statements](dayThree/Day3.java).
 
-Day 4 : Class vs Instance.
+Day 4 : [Class vs Instance](dayFour/Day4.java).
 
 Day 5 : Loops.
 
