@@ -60,7 +60,7 @@ Day 26 : [Nested Logic](dayTwentySix/Day26.java).
 
 Day 27 : [Testing](dayTwentySeven/Day27.java).
 
-Day 28 : RegEx, Patterns, and Intro to Databases.
+Day 28 : [RegEx, Patterns, and Intro to Databases](dayTwentyEight/Day28.java).
 
 Day 29 : Bitwise AND.
 
