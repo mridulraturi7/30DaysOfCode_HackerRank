@@ -46,7 +46,7 @@ Day 19 : [Interfaces](dayNineteen/Day19.java).
 
 Day 20 : [Sorting](dayTwenty/Day20.java).
 
-Day 21 : Generics.
+Day 21 : [Generics](dayTwentyOne/Day21.java).
 
 Day 22 : Binary Search Trees.
 
