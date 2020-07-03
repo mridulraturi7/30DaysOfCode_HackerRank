@@ -36,7 +36,7 @@ Day 14 : [Scope](dayFourteen/Day14.java).
 
 Day 15 : [Linked List](dayFifteen/Day15.java).
 
-Day 16 : [Exceptions - String to Integer](daySixten/Day16.java).
+Day 16 : [Exceptions - String to Integer](daySixteen/Day16.java).
 
 Day 17 : More Exceptions.
 
