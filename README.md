@@ -4,11 +4,11 @@ The repository contains my progress for the #30DaysOfCode challenge availbale on
 
 Programming Language - Java
 
-Day 0 : Hello, World.
+Day 0 : [Hello, World](dayZero/Day0.java).
 
-Day 1 : Data Types.
+Day 1 : [Data Types](dayOne/Day1.java).
 
-Day 2 : Operators.
+Day 2 : [Operators](dayTwo/Day2.java).
 
 Day 3 : Intro to Conditional Statements.
 
