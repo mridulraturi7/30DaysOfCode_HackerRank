@@ -22,9 +22,9 @@ Day 7 : [Arrays](daySeven/Day7.java).
 
 Day 8 : [Dictionaries and Maps](dayEight/Day8.java).
 
-Day 9 : Recursion 3.
+Day 9 : [Recursion 3](dayNine/Day9.java).
 
-Day 10 : Binary Numbers.
+Day 10 : [Binary Numbers](dayTen/Day10.java).
 
 Day 11 : 2D Arrays.
 
