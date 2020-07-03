@@ -56,7 +56,7 @@ Day 24 : [More Linked Lists](dayTwentyFour/Day24.java).
 
 Day 25 : [Running Time and Complexity](dayTwentyFive/Day25.java).
 
-Day 26 : Nested Logic.
+Day 26 : [Nested Logic](dayTwentySix/Day26.java).
 
 Day 27 : Testing.
 
