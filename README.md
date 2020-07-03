@@ -14,9 +14,9 @@ Day 3 : [Intro to Conditional Statements](dayThree/Day3.java).
 
 Day 4 : [Class vs Instance](dayFour/Day4.java).
 
-Day 5 : Loops.
+Day 5 : [Loops](dayFive/Day5.java).
 
-Day 6 : Let's Review.
+Day 6 : [Let's Review](daySix/Day6.java).
 
 Day 7 : Arrays.
 
