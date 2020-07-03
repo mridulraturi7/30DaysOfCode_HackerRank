@@ -30,9 +30,9 @@ Day 11 : [2D Arrays](dayEleven/Day11.java).
 
 Day 12 : [Inheritance](dayTwelve/Day12.java).
 
-Day 13 : Abstract CLasses.
+Day 13 : [Abstract CLasses](dayThirteen/Day13.java).
 
-Day 14 : Scope.
+Day 14 : [Scope](dayFourteen/Day14.java).
 
 Day 15 : Linked List.
 
