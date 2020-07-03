@@ -42,7 +42,7 @@ Day 17 : [More Exceptions](daySeventeen/Day17.java).
 
 Day 18 : [Queues and Stacks](dayEighteen/Day18.java).
 
-Day 19 : Interfaces.
+Day 19 : [Interfaces](dayNineteen/Day19.java).
 
 Day 20 : Sorting.
 
