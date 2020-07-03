@@ -18,9 +18,9 @@ Day 5 : [Loops](dayFive/Day5.java).
 
 Day 6 : [Let's Review](daySix/Day6.java).
 
-Day 7 : Arrays.
+Day 7 : [Arrays](daySeven/Day7.java).
 
-Day 8 : Dictionaries and Maps.
+Day 8 : [Dictionaries and Maps](dayEight/Day8.java).
 
 Day 9 : Recursion 3.
 
