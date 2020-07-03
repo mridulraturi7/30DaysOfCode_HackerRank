@@ -52,7 +52,7 @@ Day 22 : [Binary Search Trees](dayTwentyTwo/Day22.java).
 
 Day 23 : [BST(Binary Search Tree) Level Order Traversal](dayTwentyThree/Day23.java).
 
-Day 24 : More Linked Lists.
+Day 24 : [More Linked Lists](dayTwentyFour/Day24.java).
 
 Day 25 : Running Time and Complexity.
 
