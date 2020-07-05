@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 
-The repository contains my progress for the #30DaysOfCode challenge availbale on [HackerRank](https://www.hackerrank.com/).
+The repository contains my progress for the [#30DaysOfCode](https://www.hackerrank.com/domains/tutorials/30-days-of-code) challenge availbale on [HackerRank](https://www.hackerrank.com/).
 
 Programming Language - Java
 
