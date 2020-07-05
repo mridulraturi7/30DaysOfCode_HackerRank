@@ -12,7 +12,7 @@ The repository contains my progress for the [30 DAYS OF CODE](https://www.hacker
 
 Programming Language - Java
 
-Day 0 : [Problem Statement](https://www.hackerrank.com/challenges/30-hello-world/problem) [Hello, World](dayZero/Day0.java).
+Day 0 : [Problem Statement](https://www.hackerrank.com/challenges/30-hello-world/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Hello, World](dayZero/Day0.java).
 
 Day 1 : [Data Types](dayOne/Day1.java).
 
