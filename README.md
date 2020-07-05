@@ -16,7 +16,7 @@ Day 0 : [Problem Statement](https://www.hackerrank.com/challenges/30-hello-world
 
 Day 1 : [Problem Statement](https://www.hackerrank.com/challenges/30-data-types/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Data Types](dayOne/Day1.java).
 
-Day 2 : [Operators](dayTwo/Day2.java).
+Day 2 : [Problem Statement](https://www.hackerrank.com/challenges/30-operators/problem) [Operators](dayTwo/Day2.java).
 
 Day 3 : [Intro to Conditional Statements](dayThree/Day3.java).
 
