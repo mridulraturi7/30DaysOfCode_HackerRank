@@ -1,6 +1,8 @@
 # 30DaysOfCode_HackerRank
 
+<div align = "center">
 <img src="hackerRankLogo.png" width="140" />
+</div>
 
 The repository contains my progress for the #30DaysOfCode challenge availbale on [HackerRank](https://www.hackerrank.com/).
 
