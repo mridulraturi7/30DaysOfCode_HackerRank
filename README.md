@@ -1,5 +1,7 @@
 # 30DaysOfCode_HackerRank
 
+<img src="hackerRankLogo.png" width="140" />
+
 The repository contains my progress for the #30DaysOfCode challenge availbale on [HackerRank](https://www.hackerrank.com/).
 
 Programming Language - Java
