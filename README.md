@@ -26,7 +26,7 @@ Day 5 : [Problem Statement](https://www.hackerrank.com/challenges/30-loops/probl
 
 Day 6 : [Problem Statement](https://www.hackerrank.com/challenges/30-review-loop/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Let's Review](daySix/Day6.java).
 
-Day 7 : [Arrays](daySeven/Day7.java).
+Day 7 : [Problem Statement](https://www.hackerrank.com/challenges/30-arrays/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Arrays](daySeven/Day7.java).
 
 Day 8 : [Dictionaries and Maps](dayEight/Day8.java).
 
