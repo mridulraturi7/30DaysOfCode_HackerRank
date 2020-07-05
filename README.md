@@ -20,7 +20,7 @@ Day 2 : [Problem Statement](https://www.hackerrank.com/challenges/30-operators/p
 
 Day 3 : [Problem Statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Intro to Conditional Statements](dayThree/Day3.java).
 
-Day 4 : [Class vs Instance](dayFour/Day4.java).
+Day 4 : [Problem Statement](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Class vs Instance](dayFour/Day4.java).
 
 Day 5 : [Loops](dayFive/Day5.java).
 
