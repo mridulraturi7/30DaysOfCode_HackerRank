@@ -36,7 +36,7 @@ Day 10 : [Problem Statement](https://www.hackerrank.com/challenges/30-binary-num
 
 Day 11 : [Problem Statement](https://www.hackerrank.com/challenges/30-2d-arrays/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [2D Arrays](dayEleven/Day11.java).
 
-Day 12 : [Inheritance](dayTwelve/Day12.java).
+Day 12 : [Problem Statement](https://www.hackerrank.com/challenges/30-inheritance/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Inheritance](dayTwelve/Day12.java).
 
 Day 13 : [Abstract CLasses](dayThirteen/Day13.java).
 
