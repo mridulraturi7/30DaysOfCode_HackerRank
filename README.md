@@ -46,7 +46,7 @@ Day 15 : [Problem STatement](https://www.hackerrank.com/challenges/30-linked-lis
 
 Day 16 : [Problem Statement](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Exceptions - String to Integer](daySixteen/Day16.java).
 
-Day 17 : [More Exceptions](daySeventeen/Day17.java).
+Day 17 : [Problem Statement](https://www.hackerrank.com/challenges/30-more-exceptions/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [More Exceptions](daySeventeen/Day17.java).
 
 Day 18 : [Queues and Stacks](dayEighteen/Day18.java).
 
