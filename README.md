@@ -34,7 +34,7 @@ Day 9 : [Problem Statement](https://www.hackerrank.com/challenges/30-recursion/p
 
 Day 10 : [Problem Statement](https://www.hackerrank.com/challenges/30-binary-numbers/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Binary Numbers](dayTen/Day10.java).
 
-Day 11 : [Problem STatement](https://www.hackerrank.com/challenges/30-2d-arrays/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [2D Arrays](dayEleven/Day11.java).
+Day 11 : [Problem Statement](https://www.hackerrank.com/challenges/30-2d-arrays/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [2D Arrays](dayEleven/Day11.java).
 
 Day 12 : [Inheritance](dayTwelve/Day12.java).
 
