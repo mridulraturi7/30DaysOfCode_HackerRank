@@ -54,7 +54,7 @@ Day 19 : [Problem Statement](https://www.hackerrank.com/challenges/30-interfaces
 
 Day 20 : [Problem Statement](https://www.hackerrank.com/challenges/30-sorting/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Sorting](dayTwenty/Day20.java).
 
-Day 21 : [Generics](dayTwentyOne/Day21.java).
+Day 21 : [Problem Statement](https://www.hackerrank.com/challenges/30-generics/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Generics](dayTwentyOne/Day21.java).
 
 Day 22 : [Binary Search Trees](dayTwentyTwo/Day22.java).
 
