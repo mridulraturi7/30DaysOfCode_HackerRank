@@ -56,7 +56,7 @@ Day 20 : [Problem Statement](https://www.hackerrank.com/challenges/30-sorting/pr
 
 Day 21 : [Problem Statement](https://www.hackerrank.com/challenges/30-generics/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Generics](dayTwentyOne/Day21.java).
 
-Day 22 : [Binary Search Trees](dayTwentyTwo/Day22.java).
+Day 22 : [Problem STatement](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Binary Search Trees](dayTwentyTwo/Day22.java).
 
 Day 23 : [BST(Binary Search Tree) Level Order Traversal](dayTwentyThree/Day23.java).
 
