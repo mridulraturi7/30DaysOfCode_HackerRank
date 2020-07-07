@@ -50,7 +50,7 @@ Day 17 : [Problem Statement](https://www.hackerrank.com/challenges/30-more-excep
 
 Day 18 : [Problem Statement](https://www.hackerrank.com/challenges/30-queues-stacks/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Queues and Stacks](dayEighteen/Day18.java).
 
-Day 19 : [Interfaces](dayNineteen/Day19.java).
+Day 19 : [Problem Statement](https://www.hackerrank.com/challenges/30-interfaces/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Interfaces](dayNineteen/Day19.java).
 
 Day 20 : [Sorting](dayTwenty/Day20.java).
 
