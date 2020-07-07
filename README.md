@@ -40,7 +40,7 @@ Day 12 : [Problem Statement](https://www.hackerrank.com/challenges/30-inheritanc
 
 Day 13 : [Problem Statement](https://www.hackerrank.com/challenges/30-abstract-classes/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Abstract CLasses](dayThirteen/Day13.java).
 
-Day 14 : [Scope](dayFourteen/Day14.java).
+Day 14 : [Problem Statement](https://www.hackerrank.com/challenges/30-scope/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Scope](dayFourteen/Day14.java).
 
 Day 15 : [Linked List](dayFifteen/Day15.java).
 
