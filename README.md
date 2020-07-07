@@ -44,7 +44,7 @@ Day 14 : [Problem Statement](https://www.hackerrank.com/challenges/30-scope/prob
 
 Day 15 : [Problem STatement](https://www.hackerrank.com/challenges/30-linked-list/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Linked List](dayFifteen/Day15.java).
 
-Day 16 : [Exceptions - String to Integer](daySixteen/Day16.java).
+Day 16 : [Problem Statement](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Exceptions - String to Integer](daySixteen/Day16.java).
 
 Day 17 : [More Exceptions](daySeventeen/Day17.java).
 
