@@ -48,7 +48,7 @@ Day 16 : [Problem Statement](https://www.hackerrank.com/challenges/30-exceptions
 
 Day 17 : [Problem Statement](https://www.hackerrank.com/challenges/30-more-exceptions/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [More Exceptions](daySeventeen/Day17.java).
 
-Day 18 : [Queues and Stacks](dayEighteen/Day18.java).
+Day 18 : [Problem Statement](https://www.hackerrank.com/challenges/30-queues-stacks/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Queues and Stacks](dayEighteen/Day18.java).
 
 Day 19 : [Interfaces](dayNineteen/Day19.java).
 
