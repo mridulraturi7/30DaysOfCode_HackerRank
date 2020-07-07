@@ -52,7 +52,7 @@ Day 18 : [Problem Statement](https://www.hackerrank.com/challenges/30-queues-sta
 
 Day 19 : [Problem Statement](https://www.hackerrank.com/challenges/30-interfaces/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Interfaces](dayNineteen/Day19.java).
 
-Day 20 : [Sorting](dayTwenty/Day20.java).
+Day 20 : [Problem Statement](https://www.hackerrank.com/challenges/30-sorting/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Sorting](dayTwenty/Day20.java).
 
 Day 21 : [Generics](dayTwentyOne/Day21.java).
 
