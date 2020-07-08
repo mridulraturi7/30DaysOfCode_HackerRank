@@ -72,4 +72,4 @@ Day 28 : [Problem Statement](https://www.hackerrank.com/challenges/30-regex-patt
 
 Day 29 : [Problem Statement](https://www.hackerrank.com/challenges/30-bitwise-and/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Bitwise AND](dayTwentyNine/Day29.java).
 
-Successfully completed #30DaysOfCode Challenge (22 May 2020 to 20 June 2020).
+Successfully completed [#30DaysOfCode](https://www.hackerrank.com/domains/tutorials/30-days-of-code) Challenge (22 May 2020 to 20 June 2020).
