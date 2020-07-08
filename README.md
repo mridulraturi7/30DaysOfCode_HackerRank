@@ -68,7 +68,7 @@ Day 26 : [Problem Statement](https://www.hackerrank.com/challenges/30-nested-log
 
 Day 27 : [Problem Statement](https://www.hackerrank.com/challenges/30-testing/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Testing](dayTwentySeven/Day27.java).
 
-Day 28 : [RegEx, Patterns, and Intro to Databases](dayTwentyEight/Day28.java).
+Day 28 : [Problem Statement](https://www.hackerrank.com/challenges/30-regex-patterns/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [RegEx, Patterns, and Intro to Databases](dayTwentyEight/Day28.java).
 
 Day 29 : [Bitwise AND](dayTwentyNine/Day29.java).
 
