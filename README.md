@@ -60,7 +60,7 @@ Day 22 : [Problem Statement](https://www.hackerrank.com/challenges/30-binary-sea
 
 Day 23 : [Problem Statement](https://www.hackerrank.com/challenges/30-binary-trees/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [BST(Binary Search Tree) Level Order Traversal](dayTwentyThree/Day23.java).
 
-Day 24 : [More Linked Lists](dayTwentyFour/Day24.java).
+Day 24 : [Problem Statement](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [More Linked Lists](dayTwentyFour/Day24.java).
 
 Day 25 : [Running Time and Complexity](dayTwentyFive/Day25.java).
 
