@@ -64,7 +64,7 @@ Day 24 : [Problem Statement](https://www.hackerrank.com/challenges/30-linked-lis
 
 Day 25 : [Problem Statement](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Running Time and Complexity](dayTwentyFive/Day25.java).
 
-Day 26 : [Nested Logic](dayTwentySix/Day26.java).
+Day 26 : [Problem Statement](https://www.hackerrank.com/challenges/30-nested-logic/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Nested Logic](dayTwentySix/Day26.java).
 
 Day 27 : [Testing](dayTwentySeven/Day27.java).
 
