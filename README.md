@@ -62,7 +62,7 @@ Day 23 : [Problem Statement](https://www.hackerrank.com/challenges/30-binary-tre
 
 Day 24 : [Problem Statement](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [More Linked Lists](dayTwentyFour/Day24.java).
 
-Day 25 : [Running Time and Complexity](dayTwentyFive/Day25.java).
+Day 25 : [Problem Statement](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Running Time and Complexity](dayTwentyFive/Day25.java).
 
 Day 26 : [Nested Logic](dayTwentySix/Day26.java).
 
