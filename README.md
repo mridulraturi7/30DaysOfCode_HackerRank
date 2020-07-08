@@ -66,7 +66,7 @@ Day 25 : [Problem Statement](https://www.hackerrank.com/challenges/30-running-ti
 
 Day 26 : [Problem Statement](https://www.hackerrank.com/challenges/30-nested-logic/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Nested Logic](dayTwentySix/Day26.java).
 
-Day 27 : [Testing](dayTwentySeven/Day27.java).
+Day 27 : [Problem Statement](https://www.hackerrank.com/challenges/30-testing/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Testing](dayTwentySeven/Day27.java).
 
 Day 28 : [RegEx, Patterns, and Intro to Databases](dayTwentyEight/Day28.java).
 
