@@ -30,7 +30,7 @@ Day 7 : [Problem Statement](https://www.hackerrank.com/challenges/30-arrays/prob
 
 Day 8 : [Problem Statement](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Dictionaries and Maps](dayEight/Day8.java).
 
-Day 9 : [Problem Statement](https://www.hackerrank.com/challenges/30-recursion/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Recursion 3](dayNine/Day9.java).
+Day 9 : [Problem Statement](https://www.hackerrank.com/challenges/30-recursion/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Recursion 3](dayNine/Day9.java).
 
 Day 10 : [Problem Statement](https://www.hackerrank.com/challenges/30-binary-numbers/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Binary Numbers](dayTen/Day10.java).
 
