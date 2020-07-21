@@ -14,7 +14,7 @@ Programming Language - Java
 
 Day 0 : [Problem Statement](https://www.hackerrank.com/challenges/30-hello-world/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Hello, World](dayZero/Day0.java).
 
-Day 1 : [Problem Statement](https://www.hackerrank.com/challenges/30-data-types/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Data Types](dayOne/Day1.java).
+Day 1 : [Problem Statement](https://www.hackerrank.com/challenges/30-data-types/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Data Types](dayOne/Day1.java).
 
 Day 2 : [Problem Statement](https://www.hackerrank.com/challenges/30-operators/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Operators](dayTwo/Day2.java).
 
