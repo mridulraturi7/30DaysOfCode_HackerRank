@@ -24,7 +24,7 @@ Day 4 : [Problem Statement](https://www.hackerrank.com/challenges/30-class-vs-in
 
 Day 5 : [Problem Statement](https://www.hackerrank.com/challenges/30-loops/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Loops](dayFive/Day5.java).
 
-Day 6 : [Problem Statement](https://www.hackerrank.com/challenges/30-review-loop/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Let's Review](daySix/Day6.java).
+Day 6 : [Problem Statement](https://www.hackerrank.com/challenges/30-review-loop/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Let's Review](daySix/Day6.java).
 
 Day 7 : [Problem Statement](https://www.hackerrank.com/challenges/30-arrays/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Arrays](daySeven/Day7.java).
 
