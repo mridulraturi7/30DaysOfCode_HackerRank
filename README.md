@@ -18,7 +18,7 @@ Day 01 : [Problem Statement](https://www.hackerrank.com/challenges/30-data-types
 
 Day 02 : [Problem Statement](https://www.hackerrank.com/challenges/30-operators/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Operators](dayTwo/Day2.java).
 
-Day 3 : [Problem Statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Intro to Conditional Statements](dayThree/Day3.java).
+Day 03 : [Problem Statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Intro to Conditional Statements](dayThree/Day3.java).
 
 Day 4 : [Problem Statement](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Class vs Instance](dayFour/Day4.java).
 
