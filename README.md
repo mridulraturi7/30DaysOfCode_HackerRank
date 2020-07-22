@@ -22,7 +22,7 @@ Day 03 : [Problem Statement](https://www.hackerrank.com/challenges/30-conditiona
 
 Day 04 : [Problem Statement](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Class vs Instance](dayFour/Day4.java).
 
-Day 05 : [Problem Statement](https://www.hackerrank.com/challenges/30-loops/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Loops](dayFive/Day5.java).
+Day 05 : [Problem Statement](https://www.hackerrank.com/challenges/30-loops/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Loops](dayFive/Day5.java).
 
 Day 06 : [Problem Statement](https://www.hackerrank.com/challenges/30-review-loop/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Let's Review](daySix/Day6.java).
 
